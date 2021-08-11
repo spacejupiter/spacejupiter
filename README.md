@@ -1,6 +1,6 @@
 Javascript developer.
 making the world habitable,
-with each lines of code.
+with each line of code.
 
 <!---
 spacejupiter/spacejupiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
